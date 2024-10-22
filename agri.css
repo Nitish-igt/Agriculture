@@ -1,0 +1,135 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.nav-bar{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+    
+}
+.face-book img{
+    height: 25px;
+    width: 25px;
+}
+.instra img{
+    height: 25px;
+    width: 25px;
+
+}
+.youtube img{
+    height: 25px;
+    width: 25px;
+}
+.twitter img{
+    height: 25px;
+    width: 25px;
+    
+}
+.search-input{
+    width: 300px;
+    height: 20px;
+
+    background-color: aliceblue;
+    text-align: center;
+     border-top: 15px;
+    border: none;
+}
+.search-icon{
+    background-color: rgb(11, 148, 227);
+}
+.home img{
+    height: 25px;
+    width: 25px;
+
+
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    align-items: center;
+    display: flex;
+}
+.india-logo img{
+    height: 70px;
+    width: 60px;
+    margin-left: 20px;
+    margin-top: 5px;
+    
+    
+}
+.farmer img{
+    height: 90px;
+    width: 400px;
+
+}
+.charkha img{
+    height: 90px;
+    width: 170px;
+    margin-top: 5px;
+}
+.bapu-chasma img{
+    height: 90px;
+    width: 140px;
+    margin-top: 5px;
+}
+.indepent img{
+    height: 90px;
+    width: 160px;
+}
+.g20 img{
+    height: 90px;
+    width: 140px;
+    margin-top: 5px;
+}
+.g20agg img{
+    height: 90px;
+    width: 140px;
+    margin-top: 5px;
+
+}
+.water img{
+    height: 90px;
+    width: 140px;
+    margin-top: 5px;
+
+}
+.navbar3{
+    background-color: rgba(95, 10, 10, 0.906);
+    height: 30px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.modiimg img{
+    width: 100%;
+    background-size: cover;
+}
+
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(123, 55, 6, 0.648);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.kk{
+   height: 100px;
+   width: 100%;
+   background-color: rgb(49, 22, 2);
+   color: white;
+   align-items: flex-end;
+
+}
